@@ -5,6 +5,9 @@ This documentation is for accessing the Basis Set Exchange via
 the public REST API. For the web interface, visit
 https://www.basissetexchange.org
 
+For the main project containing basis set data, visit
+https://github.com/MolSSI-BSE/basis_set_exchange
+
 Citation
 ========
 
