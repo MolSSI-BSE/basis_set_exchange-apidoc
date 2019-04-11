@@ -4,7 +4,6 @@ sudo: false
 # Currently (1/8/2019) python3.7 requires xenial
 matrix:
   include:
-    - python: 3.5
     - python: 3.6
     - python: 3.7
       dist: xenial
