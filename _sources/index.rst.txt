@@ -5,8 +5,11 @@ This documentation is for accessing the Basis Set Exchange via
 the public REST API. For the web interface, visit
 https://www.basissetexchange.org
 
-For the main project containing basis set data, visit
-https://github.com/MolSSI-BSE/basis_set_exchange
+
+The public API is currently in beta testing. I am not planning on changing api endpoints, but cannot
+guarantee it at the moment.
+
+If you are interested in heavy use of the public API, then feel free to contact me.
 
 .. toctree::
    :maxdepth: 2
