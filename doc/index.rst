@@ -37,11 +37,3 @@ License
 
 The code is released under the BSD 3-Clause license. See the LICENSE file for
 details.
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
