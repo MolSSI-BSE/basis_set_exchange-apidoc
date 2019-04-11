@@ -1,9 +1,11 @@
 [![Build Status](https://travis-ci.org/MolSSI-BSE/basis_set_exchange-apidoc.svg?branch=master)](https://travis-ci.org/MolSSI-BSE/basis_set_exchange-apidoc)
 
-## **WARNING**
+## WARNING
 
-This repo is currently under development. It is not meant for public consumption (yet).
-Use at your own risk. 
+The public API is currently in beta testing. I am not planning on changing api endpoints, but cannot
+guarantee it at the moment.
+
+If you are interested in heavy use of the public API, then feel free to contact me.
 
 
 ## Overview
