@@ -8,6 +8,13 @@ https://www.basissetexchange.org
 For the main project containing basis set data, visit
 https://github.com/MolSSI-BSE/basis_set_exchange
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   reference
+
+
 Citation
 ========
 
@@ -20,13 +27,6 @@ For citing the previous EMSL/PNNL Basis Set Exchange, please cite the following 
  * *The Role of Databases in Support of Computational Chemistry Calculations,* Feller, D., *J. Comp. Chem.* **1996**, 17(13), 1571-1586.
  * *Basis Set Exchange: A Community Database for Computational Sciences Schuchardt,* K.L., Didier, B.T., Elsethagen, T., Sun, L., Gurumoorthi, V., Chase, J., Li, J., and Windus, T.L. *J. Chem. Inf. Model.* **2007**, 47(3), 1045-1052, doi:10.1021/ci600510j.
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   python
-   bash
 
 
 License
