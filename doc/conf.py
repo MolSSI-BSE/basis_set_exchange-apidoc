@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Basis Set Exchange - REST API Dcoumentation'
+project = 'Basis Set Exchange - REST API Documentation'
 copyright = '2019, Benjamin Pritchard'
 author = 'Benjamin Pritchard'
 
